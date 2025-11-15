@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayantheerth&show_icons=true&theme=transparent" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayantheerth&show_icons=true&theme=merko" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayantheerth&&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=darcula" height="170" alt="languages graph" />
 </p>
 
